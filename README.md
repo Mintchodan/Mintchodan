@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-<div>
+
   <a href="https://purple-galaxy-477.notion.site/Web-Progamming-7bb14c12a48047629823daf4bf10bd66?pvs=4" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion"
-</div>
-<div>
-  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=React"
-</div>
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=React"
+
 
 <!--
 **Mintchodan/Mintchodan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
