@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <div
-  <a href="https://purple-galaxy-477.notion.site/Web-Progamming-7bb14c12a48047629823daf4bf10bd66?pvs=4" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion"&logoColor=white/></a>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React"&logoColor=white/>
+  <a href="https://purple-galaxy-477.notion.site/Web-Progamming-7bb14c12a48047629823daf4bf10bd66?pvs=4" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 </div>
 <!--
