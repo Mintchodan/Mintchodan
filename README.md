@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-[Notion]-[#000000]?style=flat&logo=[Notion]"
+</div>
+
 <!--
 **Mintchodan/Mintchodan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
