@@ -1,6 +1,7 @@
-### Hi there 👋
+### 안녕하세요👋 백엔드 개발자가 되고픈 학생입니다 !
 
-<div
+#### My Stack
+<div>
   <a href="https://purple-galaxy-477.notion.site/Web-Progamming-7bb14c12a48047629823daf4bf10bd66?pvs=4" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </div>
 <div>
