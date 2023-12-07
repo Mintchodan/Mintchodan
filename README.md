@@ -2,7 +2,7 @@
 
 #### My Stack
 <div>
-  <a href="https://purple-galaxy-477.notion.site/Web-Progamming-7bb14c12a48047629823daf4bf10bd66?pvs=4" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://purple-galaxy-477.notion.site/b8fec89b5050451dbef61f81ef05cf5e?pvs=4" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </div>
 <div>
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
